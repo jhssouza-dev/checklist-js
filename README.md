@@ -1,60 +1,62 @@
+<img width="687" height="442" alt="Captura de tela 2025-11-18 205215" src="https://github.com/user-attachments/assets/d3325b0b-a443-40d5-a80c-724842d97496" />
 # 🛒 Weekly Shopping List
 
-A simple and clean **shopping checklist application** built with **HTML, CSS and JavaScript**.  
-Users can add items, remove items, mark them as completed, and receive visual feedback through an animated alert message.
-
-This project was built as part of my frontend learning path.
+A simple and minimal shopping list application built with **HTML**, **CSS**, and **JavaScript**.  
+You can add items, mark them as completed, delete them, and see a quick alert when an item is removed.
 
 ---
 
-## 🚀 Features
-
-- Add new items to the list  
-- Remove items using the trash icon  
-- Visual alert message when an item is deleted  
-- Checkbox to mark/unmark items as completed  
-- Smooth fade-in/fade-out animations for alerts  
-- Responsive layout for mobile devices  
-- Clean and minimal UI inspired by modern apps  
+## ✨ Features
+- Add new items  
+- Mark items as completed (checkbox)  
+- Delete items individually  
+- Auto-hide delete alert  
+- Smooth UI with clean pink-focused theme  
+- Responsive layout  
 
 ---
 
-## 🧠 What I Learned
+## 🚀 How to Run
 
-- DOM manipulation  
-- Creating dynamic elements with JavaScript  
-- Event handling (click, submit, etc.)  
-- Working with functions to organize code  
-- CSS layout and styling  
-- Responsive design  
-- Basic UI/UX structure  
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   ```
+
+2. Open the folder:
+   ```bash
+   cd YOUR_REPOSITORY
+   ```
+
+3. Run the project:
+   - Open `index.html` in your browser  
+   - or use **Live Server** (recommended)
 
 ---
 
 ## 📂 Project Structure
-
-/project-folder  
-│── index.html  
-│── styles.css  
-│── scripts.js  
-└── /img (optional)  
-
+- `index.html` — Main interface  
+- `styles.css` — Styling and layout  
+- `scripts.js` — Logic for adding, deleting, and marking items  
+- `/img` — Logo and assets  
 
 ---
 
-## 🛠️ Technologies Used
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **HugeIcons** (for UI icons)
+## 🧠 How It Works
+- Items are generated dynamically using JavaScript  
+- Each item includes:
+  - A checkbox  
+  - Text label  
+  - Delete icon  
+- Deleting an item triggers a temporary alert  
+- Initial items ("Milk" and "Eggs") load automatically  
 
 ---
 
-## ▶️ How to Use
+## 👤 Author
+Developed by **Your Name**  
+([GitHub](https://github.com/jhssouza-dev) / [LinkedIn](https://www.linkedin.com/in/jhssouza-dev/))
 
-1. Type a new item in the input field  
-2. Click **Add item**  
-3. Check items when they are completed  
-4. Remove items by clicking the trash icon  
-5. The alert message will appear when an item is removed
+
+
+
