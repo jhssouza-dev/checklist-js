@@ -1,4 +1,5 @@
 <img width="687" height="442" alt="Captura de tela 2025-11-18 205215" src="https://github.com/user-attachments/assets/d3325b0b-a443-40d5-a80c-724842d97496" />
+
 # 🛒 Weekly Shopping List
 
 A simple and minimal shopping list application built with **HTML**, **CSS**, and **JavaScript**.  
