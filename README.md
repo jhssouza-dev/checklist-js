@@ -21,12 +21,12 @@ You can add items, mark them as completed, delete them, and see a quick alert wh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   https://github.com/jhssouza-dev/checklist-js.git
    ```
 
 2. Open the folder:
    ```bash
-   cd YOUR_REPOSITORY
+   cd /checklist-js
    ```
 
 3. Run the project:
